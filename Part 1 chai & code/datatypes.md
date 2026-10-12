@@ -11,5 +11,4 @@
 - Boolean: True, False
 - None: None
 - Functions, modules, classes
-- Advance: Decorators, Generators, Iterators, MetaProgramming
-
+- Advance: Decorators, Generators, Iterators, MetaProgramming 
